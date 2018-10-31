@@ -24,10 +24,17 @@
 
 ---
 
-<img src="30. High-level Kubernetes architecture diagram-01.png" alt="Kubernetes Architecture">
+<img src="kops_k8s_cluster_aws.png" alt="Kubernetes Architecture">
 
 ---
 
+## AWS Kubernetes Cluster 
+
+---
+
+<img src="30. High-level Kubernetes architecture diagram-01.png" alt="Kubernetes Architecture">
+
+---
 ## Core Components
 
  - Nodes
