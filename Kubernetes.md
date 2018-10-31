@@ -50,7 +50,7 @@
 
 ---
 
-<img src="img/32. Kubernetes Node diagram-01.png" alt="Kubernetes Node">
+<img src="32. Kubernetes Node diagram-01.png" alt="Kubernetes Node">
 
 ---
 
@@ -66,7 +66,7 @@
 
 ---
 
-<img src="img/33. Kubernetes Pods diagram-01.png" alt="Kubernetes Pod">
+<img src="33. Kubernetes Pods diagram-01.png" alt="Kubernetes Pod">
 
 ---
 
@@ -109,7 +109,7 @@ spec:
 
 ---
 
-<img src="img/35. Kubernetes Labels diagram-01.png" alt="Kubernetes Labels">
+<img src="35. Kubernetes Labels diagram-01.png" alt="Kubernetes Labels">
 
 ---
 
@@ -144,7 +144,7 @@ spec:
 
 ---
 
-<img src="img/35. Kubernetes Labels diagram-01.png" alt="Kubernetes Selectors">
+<img src="35. Kubernetes Labels diagram-01.png" alt="Kubernetes Selectors">
 
 ---
 
@@ -158,15 +158,15 @@ spec:
 
 ---
 
-<img src="img/37. Kubernetes Services diagram_A-01.png" alt="Kubernetes Services 1">
+<img src="37. Kubernetes Services diagram_A-01.png" alt="Kubernetes Services 1">
 
 ---
 
-<img src="img/37. Kubernetes Services diagram-01.png" alt="Kubernetes Services 2">
+<img src="37. Kubernetes Services diagram-01.png" alt="Kubernetes Services 2">
 
 ---
 
-<img src="img/36. Kubernetes Selectors diagram-01.png" alt="Kubernetes Services 3">
+<img src="36. Kubernetes Selectors diagram-01.png" alt="Kubernetes Services 3">
 
 ---
 
@@ -204,7 +204,7 @@ spec:
 
 ---
 
-<img src="img/41. Cluster IP Service diagram-01.png" alt="Kubernetes ClusterIP">
+<img src="41. Cluster IP Service diagram-01.png" alt="Kubernetes ClusterIP">
 
 ---
 
@@ -216,7 +216,7 @@ spec:
 
 ---
 
-<img src="img/43. NodePort service diagram-01.png" alt="Kubernetes NodePort">
+<img src="43. NodePort service diagram-01.png" alt="Kubernetes NodePort">
 
 ---
 
@@ -227,7 +227,7 @@ spec:
 
 ---
 
-<img src="img/Load balancer-01.png" alt="Kubernetes LoadBalancer">
+<img src="Load balancer-01.png" alt="Kubernetes LoadBalancer">
 
 ---
 
@@ -247,7 +247,7 @@ spec:
 
 ---
 
-<img src="img/34. Flat Networking Space-01.png" alt="Kubernetes Networking">
+<img src="34. Flat Networking Space-01.png" alt="Kubernetes Networking">
 
 ---
 
@@ -258,7 +258,7 @@ spec:
 
 ---
 
-<img src="img/45. Kubernetes Deployments diagram-01.png" alt="Kubernetes Deployments">
+<img src="45. Kubernetes Deployments diagram-01.png" alt="Kubernetes Deployments">
 
 ---
 
@@ -271,7 +271,7 @@ spec:
 
 ---
 
-<img src="img/Deployment Replicaset.png" alt="Kubernetes Deployments">
+<img src="Deployment Replicaset.png" alt="Kubernetes Deployments">
 
 ---
 
@@ -284,7 +284,7 @@ spec:
 
 ---
 
-<img src="img/47. Kubernetes Namespaces diagram-01.png" alt="Kubernetes Namespaces">
+<img src="47. Kubernetes Namespaces diagram-01.png" alt="Kubernetes Namespaces">
 
 ---
 
@@ -316,10 +316,6 @@ spec:
 * Good *high-level* overview of the cluster
 * Can drill down into details
 * Useful for debugging
-
----
-
-<img src="img/dashboard.png" alt="Kubernetes Dashboard">
 
 ---
 
