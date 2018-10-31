@@ -24,7 +24,7 @@
 
 ---
 
-<img src="img/30. High-level Kubernetes architecture diagram-01.png" alt="Kubernetes Architecture">
+<img src="30. High-level Kubernetes architecture diagram-01.png" alt="Kubernetes Architecture">
 
 ---
 
